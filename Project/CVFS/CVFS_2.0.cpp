@@ -3,10 +3,10 @@
 //  Project Name:               Customised Virtual File System (CVFS)
 //  Description:                CVFS is a virtual representation/ emulation  of UFS(UNIX File System)
 //  Technology used:            Native System Programming using C Language
-//  User Interface:		        CUI (Command line User Interface)
-//  Platform required:		    Linux Distributions or Windows
-//  Architectural requirement:	Intel 32 bit Processor
-//  Hardware requirement:	    5MB RAM space
+//  User Interface:             CUI (Command line User Interface)
+//  Platform required:          Linux Distributions or Windows
+//  Architectural requirement:  Intel 32 bit Processor
+//  Hardware requirement:       5MB RAM space
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
